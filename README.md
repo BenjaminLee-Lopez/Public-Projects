@@ -1,6 +1,3 @@
 # Public-Projects
 
-
-#=====================
-# Pong, for Windows
-#=====================
+Pong (Only usable on Windows)
